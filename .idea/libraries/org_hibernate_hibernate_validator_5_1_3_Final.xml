@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="org.hibernate:hibernate-validator:5.1.3.Final" type="repository">
+    <properties maven-id="org.hibernate:hibernate-validator:5.1.3.Final" />
+    <CLASSES>
+      <root url="jar://H:/library/hibernate-validation/hibernate-validator-5.1.3.Final.jar!/" />
+      <root url="jar://H:/library/hibernate-validation/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://H:/library/hibernate-validation/jboss-logging-3.1.3.GA.jar!/" />
+      <root url="jar://H:/library/hibernate-validation/classmate-1.0.0.jar!/" />
+      <root url="jar://H:/library/hibernate-validation/javax.el-api-2.2.4.jar!/" />
+      <root url="jar://H:/library/hibernate-validation/javax.el-2.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://H:/library/hibernate-validation/hibernate-validator-5.1.3.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
